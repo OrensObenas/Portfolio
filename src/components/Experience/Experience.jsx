@@ -5,7 +5,7 @@ import styles from "./Experience.module.css"
 const Experience = () => {
   return (
     <section id="experience" className={styles.container}>
-        <h2 className={styles.title}>Experience</h2>
+        <h2 className={styles.title}>Skills</h2>
         <div className={styles.content} >
             <div className={styles.skills}>
                 {
@@ -19,7 +19,7 @@ const Experience = () => {
                     })
                 }
             </div>
-            <ul className={styles.history}>
+{/*             <ul className={styles.history}>
                 {
                     history.map((historyItem,id) => {
                         return <li key={id} className={styles.historyItem}>
@@ -43,7 +43,7 @@ const Experience = () => {
                         </li>
                     } )
                 }
-            </ul>
+            </ul> */}
         </div>
     </section>
   )

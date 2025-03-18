@@ -30,7 +30,7 @@ const About = () => {
                 <div className={styles.aboutItemText}>
                     <h3>Backend developper</h3>
                     <p>
-                        I have experience developing fast and optimized back-end system and APIs
+                        I have experience developing fast and optimized back-end system
                     </p>
                 </div>
             </li>

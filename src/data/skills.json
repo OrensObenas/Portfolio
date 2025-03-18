@@ -4,6 +4,10 @@
       "imageSrc": "assets/skills/html.png"
     },
     {
+      "title": "JS",
+      "imageSrc":"assets/skills/First_js.png"
+    },
+    {
       "title": "CSS",
       "imageSrc": "assets/skills/css.png"
     },
@@ -12,19 +16,23 @@
       "imageSrc": "assets/skills/react.png"
     },
     {
-      "title": "Node",
-      "imageSrc": "assets/skills/node.png"
+      "title": "Django",
+      "imageSrc": "assets/skills/First_django.png"
     },
     {
-      "title": "GraphQL",
-      "imageSrc": "assets/skills/graphql.png"
+      "title": "Mysql",
+      "imageSrc": "assets/skills/First_mysql.png"
     },
     {
-      "title": "MongoDB",
-      "imageSrc": "assets/skills/mongodb.png"
+      "title": "Docker",
+      "imageSrc": "assets/skills/First_docker.png"
     },
     {
-      "title": "Figma",
-      "imageSrc": "assets/skills/figma.png"
+      "title": "Git",
+      "imageSrc": "assets/skills/First_git.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "assets/skills/First_github.png"
     }
 ]

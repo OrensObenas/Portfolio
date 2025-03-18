@@ -1,24 +1,32 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "assets/projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "title": "Prediction of Obesity",
+      "imageSrc": "assets/projects/obeisity.png",
+      "description": "Application based on a machine learning model capable of predicting whether a person is obese or not.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/OrensObenas/Coding_week"
+    },
+    {
+      "title": "Chatapp",
+      "imageSrc": "assets/projects/Chatapp_new.png",
+      "description": "Instant web chat application that ensures optimal security for its users.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/OrensObenas/chatApp"
+    },
+    {
+      "title": "Gallery Management",
+      "imageSrc": "assets/projects/Galery.png",
+      "description": "Web gallery management application that allows images to be categorized with multiple attributes.",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
     {
-      "title": "Project B",
-      "imageSrc": "assets/projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Project C",
-      "imageSrc": "assets/projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "title": "Taxi Course Management",
+      "imageSrc": "assets/projects/Rapido.png",
+      "description": "Web-based course management application that allows a company to manage all the activities.",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
